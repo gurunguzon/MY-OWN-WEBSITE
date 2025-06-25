@@ -234,6 +234,10 @@ main{
    @media (max-width:500px){
      .hero-container h2{
         font-size: 25px;
+        
+    }
+    .navbar{
+        display: none;
     }
     .service-card{
         grid-template-columns: repeat(1,1fr);
